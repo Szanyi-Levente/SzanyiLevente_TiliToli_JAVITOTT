@@ -1,0 +1,60 @@
+E:\c#\TiliToli\TiliToli\TiliToli\bin\Debug\TiliToli.exe.config
+E:\c#\TiliToli\TiliToli\TiliToli\bin\Debug\TiliToli.exe
+E:\c#\TiliToli\TiliToli\TiliToli\bin\Debug\TiliToli.pdb
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.csprojAssemblyReference.cache
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\MainWindow.g.cs
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\App.g.cs
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.cache
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.lref
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\MainWindow.baml
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.g.resources
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.Properties.Resources.resources
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.GenerateResource.cache
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.CoreCompileInputs.cache
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.exe
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.pdb
+E:\2020-2021\11B\TiliToli\TiliToli\bin\Debug\TiliToli.exe.config
+E:\2020-2021\11B\TiliToli\TiliToli\bin\Debug\TiliToli.exe
+E:\2020-2021\11B\TiliToli\TiliToli\bin\Debug\TiliToli.pdb
+E:\2020-2021\11B\TiliToli\TiliToli\obj\Debug\TiliToli.csprojAssemblyReference.cache
+E:\2020-2021\11B\TiliToli\TiliToli\obj\Debug\MainWindow.g.cs
+E:\2020-2021\11B\TiliToli\TiliToli\obj\Debug\App.g.cs
+E:\2020-2021\11B\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.cache
+E:\2020-2021\11B\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.lref
+E:\2020-2021\11B\TiliToli\TiliToli\obj\Debug\MainWindow.baml
+E:\2020-2021\11B\TiliToli\TiliToli\obj\Debug\TiliToli.g.resources
+E:\2020-2021\11B\TiliToli\TiliToli\obj\Debug\TiliToli.Properties.Resources.resources
+E:\2020-2021\11B\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.GenerateResource.cache
+E:\2020-2021\11B\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.CoreCompileInputs.cache
+E:\2020-2021\11B\TiliToli\TiliToli\obj\Debug\TiliToli.exe
+E:\2020-2021\11B\TiliToli\TiliToli\obj\Debug\TiliToli.pdb
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\bin\Debug\TiliToli.exe.config
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\bin\Debug\TiliToli.exe
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\bin\Debug\TiliToli.pdb
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\obj\Debug\TiliToli.csprojAssemblyReference.cache
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\obj\Debug\MainWindow.g.cs
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\obj\Debug\App.g.cs
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.cache
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.lref
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\obj\Debug\MainWindow.baml
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\obj\Debug\TiliToli.g.resources
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\obj\Debug\TiliToli.Properties.Resources.resources
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.GenerateResource.cache
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.CoreCompileInputs.cache
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\obj\Debug\TiliToli.exe
+C:\Users\Matth\OneDrive\Asztali gép\School Stuff\Komplex Programozás\3. projekt\TiliToli\TiliToli\obj\Debug\TiliToli.pdb
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\bin\Debug\TiliToli.exe.config
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\bin\Debug\TiliToli.exe
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\bin\Debug\TiliToli.pdb
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\obj\Debug\TiliToli.csprojAssemblyReference.cache
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\obj\Debug\MainWindow.g.cs
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\obj\Debug\App.g.cs
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\obj\Debug\TiliToli_MarkupCompile.cache
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\obj\Debug\TiliToli_MarkupCompile.lref
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\obj\Debug\MainWindow.baml
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\obj\Debug\TiliToli.g.resources
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\obj\Debug\TiliToli.Properties.Resources.resources
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\obj\Debug\TiliToli.csproj.GenerateResource.cache
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\obj\Debug\TiliToli.csproj.CoreCompileInputs.cache
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\obj\Debug\TiliToli.exe
+E:\TANULÁS\Komplex Programozás\TiliToli_SzanyiLevente_JAVÍTOTT\TiliToli\obj\Debug\TiliToli.pdb
